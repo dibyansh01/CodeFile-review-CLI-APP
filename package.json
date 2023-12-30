@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "code-review-cli": "dist/index.js"
+    "code-review-cli": "./index.js"
   },
   "main": "index.js",
   "scripts": {

@@ -5,11 +5,10 @@ import OpenAI from "openai";
 import * as path from 'path';
 import * as dotenv from 'dotenv';
 
-dotenv.config({ path: path.resolve(__dirname, ".env") });
-require('dotenv').config();
+dotenv.config({ path: path.resolve(__dirname, '.env') });
 
 const apiKey = process.env.OPENAI_API_KEY;
-// console.log("OpenAI API Key:", apiKey); debug 
+// console.log("OpenAI API Key:", apiKey); debug
 
 const openai = new OpenAI({
     apiKey: apiKey,
