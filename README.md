@@ -1,4 +1,4 @@
-# CLI App for Code Explanation - Documentation
+# CLI App for Code Review from any local file.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dibyansh01/CodeFile-review-CLI-APP/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/dibyansh01/DsimplyMart-dashboard)](https://github.com/dibyansh01/CodeFile-review-CLI-APP/issues)
@@ -77,3 +77,5 @@ Apart from code explanation, this CLI App can be extended to assist developers i
 2. Interactive Learning: Use the OpenAI API to create an interactive learning environment where developers can ask questions about specific code segments.
 
 ## Demo
+[Screencast from 12-30-2023 08:00:13 PM.webm](https://github.com/dibyansh01/CodeFile-review-CLI-APP/assets/129924389/bfffad10-8209-492e-a2ba-e274410e8e7c)
+
