@@ -41,7 +41,9 @@ const fs_1 = __importDefault(require("fs"));
 const openai_1 = __importDefault(require("openai"));
 const path = __importStar(require("path"));
 const dotenv = __importStar(require("dotenv"));
-dotenv.config({ path: path.resolve(__dirname, '.env') });
+// dotenv.config({ path: path.resolve(__dirname, '.env') });
+const projectRoot = path.resolve(__dirname, '..'); // Assuming that .env is in the root
+dotenv.config({ path: path.resolve(projectRoot, '.env') });
 const apiKey = process.env.OPENAI_API_KEY;
 // console.log("OpenAI API Key:", apiKey); debug
 const openai = new openai_1.default({
