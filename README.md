@@ -20,7 +20,7 @@
 
 ## Introduction
 
-Welcome to the CLI App for Code Explanation! This Node.js application allows developers to quickly and easily get explanations and correction for code snippets using the OpenAI API.
+Welcome to the CLI App for Code Review! This Node.js application allows developers to quickly and easily get explanations and correction for code snippets using the OpenAI API.
 
 ## Prerequisites
 
