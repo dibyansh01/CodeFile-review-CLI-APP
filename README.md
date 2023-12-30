@@ -1,5 +1,10 @@
 # CLI App for Code Explanation - Documentation
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dibyansh01/CodeFile-review-CLI-APP/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/dibyansh01/DsimplyMart-dashboard)](https://github.com/dibyansh01/CodeFile-review-CLI-APP/issues)
+[![GitHub stars](https://img.shields.io/github/stars/dibyansh01/DsimplyMart-store)](https://github.com/dibyansh01/CodeFile-review-CLI-APP/stargazers)
+
+
 ---
 
 ### Table of Contents
@@ -32,7 +37,7 @@ Follow these steps to install the CLI App:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cli-code-explanation.git
+   git clone https://github.com/dibyansh01/CodeFile-review-CLI-APP.git
    
 2. Navigate to the project directory:
    ```bash
@@ -52,7 +57,7 @@ Follow these steps to install the CLI App:
      tsc
 2. Make the Script Executable:
     ```bash
-    chmod +x dist/index.js
+    chmod +x index.js
 
 3. Now install the package globally using:
     ```bash
