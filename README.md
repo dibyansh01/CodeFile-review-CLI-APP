@@ -59,7 +59,7 @@ Follow these steps to install the CLI App:
      tsc
 2. Make the Script Executable:
     ```bash
-    chmod +x index.js
+    chmod +x src/index.js
 
 3. Now install the package globally using:
     ```bash
