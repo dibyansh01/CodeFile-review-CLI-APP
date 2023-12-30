@@ -4,7 +4,6 @@ import fs from "fs";
 import OpenAI from "openai";
 import * as path from 'path';
 import * as dotenv from 'dotenv';
-import 'ts-dotenv';
 
 dotenv.config({ path: path.resolve(__dirname, ".env") });
 require('dotenv').config();
