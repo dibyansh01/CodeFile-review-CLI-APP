@@ -96,7 +96,6 @@ Thank you for considering contributing to CodeFile-review-CLI-APP! I welcome con
 
 Let's create a positive and inclusive environment for all users and contributors.
 
-Thank you for your support in making DsimplyMart-store a great eCommerce web app!
 
 
 ## License
